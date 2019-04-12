@@ -87,6 +87,4 @@ You can run the attack tool by issuing the following command:
 
 > ./ofp_detect
 
-References
-----------
-Imad Elhajj, American University of Beirut, <a href="http://staff.aub.edu.lb/~ie05/" target="_new">More</a>.
+
